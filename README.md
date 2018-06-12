@@ -1,5 +1,5 @@
 # Envelope-VAR-model-with-time-series-data
-## In this code, apply envelope model on multivariate time series data, first, to transform time series into stationary by differencing and log transformation. Second, transform data into two parts Y and X. Third, divide data into train and test. Fourth, apply envelope or partial envelope model to data, check estimation and prediction accuracy. When doing prediction, I take predict next data one by one meanwhile update model each time untill the last data point. 
+* In this code, apply envelope model on multivariate time series data, first, to transform time series into stationary by differencing and log transformation. Second, transform data into two parts Y and X. Third, divide data into train and test. Fourth, apply envelope or partial envelope model to data, check estimation and prediction accuracy. When doing prediction, I take predict next data one by one meanwhile update model each time untill the last data point. 
 
 ```
 # data in paper-UK spirit
